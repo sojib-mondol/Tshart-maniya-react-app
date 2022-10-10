@@ -11,3 +11,12 @@
     8. set link on the header route
 
 */
+
+
+/*
+  Context API
+  1. Declare a context 
+  2. Set provider with value 
+  3. useConext  in the place where you want to get the context 
+
+*/
